@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="101" height="40" viewBox="0 0 101 40">
+    <g fill="#FFF" fill-rule="evenodd" opacity=".924">
+        <text font-family="Lato-Black, Lato" font-size="19.409" font-weight="700" transform="translate(0 -3)">
+            <tspan x="0" y="19">NBFC - P2P</tspan>
+        </text>
+        <text font-family="Lato-Regular, Lato" font-size="10.215" transform="translate(0 -3)">
+            <tspan x="0" y="30.429">registered with</tspan>
+        </text>
+        <text font-family="Lato-Bold, Lato" font-size="8.479" font-weight="bold" transform="translate(0 -3)">
+            <tspan x="0" y="41.71">RESERVE BANK OF INDIA</tspan>
+        </text>
+    </g>
+</svg>
